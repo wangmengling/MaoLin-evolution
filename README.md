@@ -11,5 +11,5 @@
 ###First week
 
   1. Development of blog background management system
-  2. Perfect storage model data for multiple types
+  2. Perfect storage data model for multiple types
   
